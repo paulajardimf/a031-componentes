@@ -30,7 +30,7 @@ main {
   border-right-width: thin;
 }
 
-.botoes-meunu-vertical {
+.botoes-menu-vertical {
   list-style-type: none;
 }
 
@@ -71,4 +71,13 @@ footer {
 
 h4 {
   margin-left: 20px;
+}
+
+.container-usuario {
+  display: flex;
+  padding: 1vh;
+}
+
+.imagem-usuario {
+  width: 50px;
 }
